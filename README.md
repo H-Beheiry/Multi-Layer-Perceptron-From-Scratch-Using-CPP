@@ -51,3 +51,8 @@ You can compile all source files together using g++:
 
 ```bash
 g++ main.cpp Net.cpp Neuron.cpp -o main
+```
+#### Rerfrence
+Huge thanks for Dave Miller providing an brilliant tutorial that enhanced my understanding of this problem and coding this C++ without any additional libaries
+Link to The Tutorial:
+[Tutorial](https://www.youtube.com/watch?v=sK9AbJ4P8ao&t=490s)
