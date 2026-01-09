@@ -29,7 +29,7 @@ To make the comparison fair (since my C++ code uses scalar logic), the PyTorch b
 | **Training Time** | 52.16s | **14.81s** |
 | **Testing Time** | 4.23s | **0.24s** |
 
-> **Note on Performance:** > Even with constraints, PyTorch is faster because it utilizes highly optimized C/C++ backends (BLAS/LAPACK) and contiguous memory arrays. My implementation uses `std::vector` objects
+> **Note on Performance:** > Even with constraints, PyTorch is faster because it utilizes highly optimized C/C++ backends and contiguous memory arrays. My implementation uses `std::vector` objects
 >  and `structs` for neurons, prioritizing **readability and object-oriented design** over cache coherence and vectorization.
 
 ## Project Structure
