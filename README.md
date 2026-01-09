@@ -2,7 +2,7 @@
 
 A robust implementation of a fully connected Neural Network (Multi-Layer Perceptron) built entirely from scratch in C++. 
 
-This project was built to understand the low-level mathematics of Deep Learning—specifically **Backpropagation** and **Gradient Descent**—without relying on any high-level libraries like PyTorch, TensorFlow, or linear algebra frameworks (like Eigen).
+This project was built to understand the low-level mathematics of Deep Learning,specifically **Backpropagation** and **Gradient Descent**, without relying on any high-level libraries like PyTorch, TensorFlow, or linear algebra frameworks (like Eigen).
 
 ## Project Overview
 
